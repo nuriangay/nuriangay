@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nuriangay I am 3rd year Student in Mugla Sıtkı Koçman Universty.21 years old.
+- 👀 I’m interested Front-end Developing
+- 🌱 I’m currently learning React,Redux
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
